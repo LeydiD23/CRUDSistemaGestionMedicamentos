@@ -1,0 +1,15 @@
+# Carpetas generadas por Visual Studio y .NET
+bin/
+obj/
+.vs/
+
+# Archivos de usuario
+*.user
+*.suo
+
+# Configuración de VS Code
+.vscode/
+
+# Archivos temporales de .NET
+*.cache
+*.pdb
