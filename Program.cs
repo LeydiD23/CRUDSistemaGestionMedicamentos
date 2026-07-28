@@ -3,7 +3,7 @@ using System.Windows.Forms;
 using SistemaGestionMedicamentos.Presentacion;
 
 // Mejora realizada para la práctica de Git Flow
-
+// Mejora de la búsqueda de medicamentos para la práctica de Git Flow.
 namespace SistemaGestionMedicamentos
 {
     internal static class Program
